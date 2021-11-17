@@ -1,0 +1,8 @@
+Line 84: Class WINSOCKLib.TCP of control TCP was not a loaded control class.
+Line 88: The property name _ExtentX in TCP is invalid.
+Line 89: The property name _ExtentY in TCP is invalid.
+Line 90: The property name Blocking in TCP is invalid.
+Line 91: The property name SleepTime in TCP is invalid.
+Line 92: The property name RemoteHost in TCP is invalid.
+Line 93: The property name RemotePort in TCP is invalid.
+Line 94: The property name LocalPort in TCP is invalid.
